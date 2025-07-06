@@ -75,3 +75,6 @@ refresh_images.sh
 update_diffs/
 create_cold_standby.sh
 !data/conf/nginx/mailcow_auth.conf
+.secrets
+data/assets/ssl-example/cert.pem
+data/assets/ssl-example/key.pem
